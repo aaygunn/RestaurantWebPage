@@ -22,5 +22,5 @@ Bu proje, kullanıcıların yemek siparişi verebileceği bir web sitesini içer
 <h3> Ekran Goruntusu</h3>
 
 
-![](RestaurantWeb.gif)# RestaurantWebPage
-# RestaurantWebPage
+![](restaurant.gif)
+
